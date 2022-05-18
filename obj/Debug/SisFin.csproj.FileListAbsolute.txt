@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\SistemaFinanceiro\Windows_Form\SisFin\bin\Debug\SisFin.exe.config
+C:\Users\User\Source\Repos\SistemaFinanceiro\Windows_Form\SisFin\bin\Debug\SisFin.exe
+C:\Users\User\Source\Repos\SistemaFinanceiro\Windows_Form\SisFin\bin\Debug\SisFin.pdb
+C:\Users\User\Source\Repos\SistemaFinanceiro\Windows_Form\SisFin\obj\Debug\SisFin.frmCategoria.resources
+C:\Users\User\Source\Repos\SistemaFinanceiro\Windows_Form\SisFin\obj\Debug\SisFin.MenuPrincipal.resources
+C:\Users\User\Source\Repos\SistemaFinanceiro\Windows_Form\SisFin\obj\Debug\SisFin.Properties.Resources.resources
+C:\Users\User\Source\Repos\SistemaFinanceiro\Windows_Form\SisFin\obj\Debug\SisFin.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\SistemaFinanceiro\Windows_Form\SisFin\obj\Debug\SisFin.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\SistemaFinanceiro\Windows_Form\SisFin\obj\Debug\SisFin.exe
+C:\Users\User\Source\Repos\SistemaFinanceiro\Windows_Form\SisFin\obj\Debug\SisFin.pdb
